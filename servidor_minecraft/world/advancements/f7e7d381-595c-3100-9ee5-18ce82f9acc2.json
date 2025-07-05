@@ -233,9 +233,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2025-07-05 19:31:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_helmet": {
     "criteria": {
       "has_iron_ingot": "2025-07-05 19:00:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2025-07-05 19:31:20 +0000"
     },
     "done": true
   },
@@ -317,6 +329,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2025-07-05 19:31:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_shulker_box": {
     "criteria": {
       "has_shulker_box": "2025-07-05 19:06:55 +0000"
@@ -344,6 +362,12 @@
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2025-07-05 19:00:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2025-07-05 19:31:20 +0000"
     },
     "done": true
   },
@@ -449,6 +473,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2025-07-05 19:31:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brown_shulker_box": {
     "criteria": {
       "has_shulker_box": "2025-07-05 19:06:55 +0000"
@@ -494,6 +524,12 @@
   "minecraft:recipes/tools/iron_axe": {
     "criteria": {
       "has_iron_ingot": "2025-07-05 19:00:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-07-05 19:31:20 +0000"
     },
     "done": true
   },
@@ -566,6 +602,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_white_wool": "2025-07-05 19:31:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2025-07-05 19:31:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/light_gray_shulker_box": {
     "criteria": {
       "has_shulker_box": "2025-07-05 19:06:55 +0000"
@@ -633,6 +681,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2025-07-05 19:31:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_stairs": {
     "criteria": {
       "has_planks": "2025-07-05 19:18:57 +0000"
@@ -651,9 +705,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2025-07-05 19:31:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/orange_shulker_box": {
     "criteria": {
       "has_shulker_box": "2025-07-05 19:06:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/bundle": {
+    "criteria": {
+      "has_string": "2025-07-05 19:31:20 +0000"
     },
     "done": true
   },
