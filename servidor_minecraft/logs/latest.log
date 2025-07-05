@@ -1,43 +1,27 @@
-[18:51:33] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[18:51:35] [ServerMain/INFO]: Loaded 1373 recipes
-[18:51:35] [ServerMain/INFO]: Loaded 1484 advancements
-[18:51:35] [Server thread/INFO]: Starting minecraft server version 1.21.5
-[18:51:35] [Server thread/INFO]: Loading properties
-[18:51:35] [Server thread/INFO]: Default game type: SURVIVAL
-[18:51:35] [Server thread/INFO]: Generating keypair
-[18:51:36] [Server thread/INFO]: Starting Minecraft server on *:25565
-[18:51:36] [Server thread/INFO]: Using epoll channel type
-[18:51:36] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[18:51:36] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[18:51:36] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[18:51:36] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[18:51:36] [Server thread/INFO]: Preparing level "world"
-[18:51:36] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[18:51:40] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[18:51:40] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[18:51:40] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[18:51:40] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[18:51:40] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[18:51:40] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[18:51:40] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[18:51:40] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[18:51:40] [Worker-Main-1/INFO]: Preparing spawn area: 4%
-[18:51:41] [Worker-Main-2/INFO]: Preparing spawn area: 38%
-[18:51:41] [Server thread/INFO]: Time elapsed: 4868 ms
-[18:51:41] [Server thread/INFO]: Done (5.249s)! For help, type "help"
-[18:51:58] [Server thread/INFO]: isafebrero[/172.30.35.230:52106] logged in with entity id 2 at (-4.5, 64.0, 8.5)
-[18:51:58] [Server thread/INFO]: isafebrero joined the game
-[19:00:11] [Server thread/INFO]: isafebrero has made the advancement [Sweet Dreams]
-[19:00:42] [Server thread/INFO]: isafebrero has made the advancement [Acquire Hardware]
-[19:00:58] [Server thread/INFO]: isafebrero has made the advancement [Hot Stuff]
-[19:05:01] [Server thread/INFO]: isafebrero has made the advancement [Stone Age]
-[19:08:50] [Server thread/INFO]: isafebrero has made the advancement [Cover Me with Diamonds]
-[19:09:50] [Server thread/INFO]: isafebrero has made the advancement [What a Deal!]
-[19:58:57] [Server thread/INFO]: isafebrero has made the advancement [Suit Up]
-[20:18:54] [Server thread/INFO]: isafebrero has made the advancement [Not Today, Thank You]
-[20:18:59] [Server thread/INFO]: isafebrero has made the advancement [Monster Hunter]
-[20:40:06] [Server thread/INFO]: isafebrero has made the advancement [We Need to Go Deeper]
-[20:42:13] [Server thread/INFO]: isafebrero has made the advancement [Eye Spy]
-[20:42:56] [Server thread/INFO]: isafebrero has made the advancement [The End?]
-[20:55:10] [Server thread/INFO]: isafebrero lost connection: Disconnected
-[20:55:10] [Server thread/INFO]: isafebrero left the game
+[21:20:14] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[21:20:16] [ServerMain/INFO]: Loaded 1373 recipes
+[21:20:16] [ServerMain/INFO]: Loaded 1484 advancements
+[21:20:16] [Server thread/INFO]: Starting minecraft server version 1.21.5
+[21:20:16] [Server thread/INFO]: Loading properties
+[21:20:16] [Server thread/INFO]: Default game type: SURVIVAL
+[21:20:16] [Server thread/INFO]: Generating keypair
+[21:20:16] [Server thread/INFO]: Starting Minecraft server on *:25565
+[21:20:16] [Server thread/INFO]: Using epoll channel type
+[21:20:16] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[21:20:16] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[21:20:16] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[21:20:16] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[21:20:16] [Server thread/INFO]: Preparing level "world"
+[21:20:17] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[21:20:20] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:20:20] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:20:20] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:20:20] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:20:20] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:20:20] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:20:20] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:20:20] [Worker-Main-3/INFO]: Preparing spawn area: 28%
+[21:20:20] [Server thread/INFO]: Time elapsed: 3670 ms
+[21:20:20] [Server thread/INFO]: Done (4.063s)! For help, type "help"
+[21:20:52] [Server thread/INFO]: sebas2011junio[/172.30.35.230:60930] logged in with entity id 8 at (95.30000001192093, 185.0, -182.31405512722756)
+[21:20:52] [Server thread/INFO]: sebas2011junio joined the game

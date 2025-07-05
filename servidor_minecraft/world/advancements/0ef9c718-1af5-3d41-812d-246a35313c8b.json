@@ -4102,6 +4102,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/bundle": {
+    "criteria": {
+      "has_string": "2025-07-04 23:20:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/red_shulker_box": {
     "criteria": {
       "has_shulker_box": "2025-07-04 23:20:03 +0000"
@@ -4192,15 +4198,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/bundle": {
-    "criteria": {
-      "has_string": "2025-07-04 23:20:01 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/black_shulker_box": {
     "criteria": {
       "has_shulker_box": "2025-07-04 23:20:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lodestone": {
+    "criteria": {
+      "has_iron_ingot": "2025-07-05 21:23:38 +0000"
     },
     "done": true
   },
