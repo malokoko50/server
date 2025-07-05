@@ -5,6 +5,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2025-07-05 19:58:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate": {
     "criteria": {
       "has_cobbled_deepslate": "2025-07-05 19:05:01 +0000"
@@ -95,6 +101,18 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_helmet": "2025-07-05 19:58:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2025-07-05 19:58:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/yellow_shulker_box": {
     "criteria": {
       "has_shulker_box": "2025-07-05 19:06:55 +0000"
@@ -128,6 +146,12 @@
   "minecraft:recipes/decorations/fletching_table": {
     "criteria": {
       "has_flint": "2025-07-05 19:47:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_helmet": "2025-07-05 19:58:57 +0000"
     },
     "done": true
   },
@@ -431,6 +455,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
+    "criteria": {
+      "has_pink_dye": "2025-07-05 19:58:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/carrot_on_a_stick": {
     "criteria": {
       "has_carrot": "2025-07-05 18:54:11 +0000"
@@ -440,6 +470,12 @@
   "minecraft:recipes/redstone/spruce_trapdoor": {
     "criteria": {
       "has_planks": "2025-07-05 19:18:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_candle": {
+    "criteria": {
+      "has_pink_dye": "2025-07-05 19:58:58 +0000"
     },
     "done": true
   },
@@ -533,9 +569,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dye_pink_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-07-05 19:58:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobbled_deepslate_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-07-05 19:05:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_pink_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-07-05 19:58:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_purple_and_pink": {
+    "criteria": {
+      "has_pink_dye": "2025-07-05 19:58:58 +0000"
     },
     "done": true
   },
@@ -659,6 +713,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_helmet": "2025-07-05 19:58:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/polished_deepslate_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-07-05 19:05:01 +0000"
@@ -704,6 +764,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/pink_bundle": {
+    "criteria": {
+      "has_pink_dye": "2025-07-05 19:58:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/magenta_shulker_box": {
     "criteria": {
       "has_shulker_box": "2025-07-05 19:06:55 +0000"
@@ -728,9 +794,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dye_pink_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-07-05 19:58:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2025-07-05 18:52:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2025-07-05 19:58:59 +0000"
     },
     "done": true
   },
@@ -744,6 +822,12 @@
   "minecraft:recipes/building_blocks/deepslate_tiles_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-07-05 19:05:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2025-07-05 19:58:59 +0000"
     },
     "done": true
   },
@@ -807,6 +891,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/pink_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_pink_dye": "2025-07-05 19:58:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2025-07-05 18:52:02 +0000"
@@ -867,6 +957,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2025-07-05 19:58:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/iron_door": {
     "criteria": {
       "has_iron_ingot": "2025-07-05 19:00:42 +0000"
@@ -882,6 +978,12 @@
   "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
     "criteria": {
       "has_iron_ingot": "2025-07-05 19:00:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2025-07-05 19:58:59 +0000"
     },
     "done": true
   },
