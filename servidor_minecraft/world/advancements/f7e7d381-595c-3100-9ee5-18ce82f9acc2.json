@@ -819,6 +819,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-07-05 20:18:59 +0000",
+      "minecraft:enderman": "2025-07-05 20:45:24 +0000",
       "minecraft:magma_cube": "2025-07-05 20:41:22 +0000",
       "minecraft:spider": "2025-07-05 20:21:05 +0000",
       "minecraft:zombie": "2025-07-05 20:20:15 +0000"
@@ -843,9 +844,21 @@
     },
     "done": true
   },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2025-07-05 20:42:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/magenta_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_magenta_dye": "2025-07-05 20:29:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2025-07-05 20:42:56 +0000"
     },
     "done": true
   },
@@ -973,6 +986,7 @@
       "minecraft:meadow": "2025-07-05 20:23:45 +0000",
       "minecraft:birch_forest": "2025-07-05 20:20:29 +0000",
       "minecraft:stony_shore": "2025-07-05 18:55:46 +0000",
+      "minecraft:snowy_plains": "2025-07-05 20:42:01 +0000",
       "minecraft:frozen_peaks": "2025-07-05 20:07:37 +0000",
       "minecraft:plains": "2025-07-05 18:52:20 +0000"
     },
@@ -1282,6 +1296,12 @@
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "in_water": "2025-07-05 18:52:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2025-07-05 20:42:56 +0000"
     },
     "done": true
   },
