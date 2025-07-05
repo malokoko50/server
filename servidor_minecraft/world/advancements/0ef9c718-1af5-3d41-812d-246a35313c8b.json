@@ -1776,6 +1776,7 @@
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:nether_wastes": "2024-08-03 21:36:01 +0000",
+      "minecraft:soul_sand_valley": "2025-07-05 21:26:28 +0000",
       "minecraft:warped_forest": "2024-07-30 21:31:15 +0000",
       "minecraft:basalt_deltas": "2024-08-03 21:50:11 +0000"
     },
@@ -2133,6 +2134,7 @@
       "minecraft:wither_skeleton": "2024-08-03 21:59:37 +0000",
       "minecraft:ender_dragon": "2024-08-08 20:02:28 +0000",
       "minecraft:shulker": "2024-08-13 01:33:13 +0000",
+      "minecraft:piglin": "2025-07-05 21:27:51 +0000",
       "minecraft:breeze": "2024-08-08 20:57:53 +0000",
       "minecraft:silverfish": "2024-07-31 21:34:50 +0000",
       "minecraft:enderman": "2024-08-03 21:11:33 +0000",
@@ -4201,6 +4203,30 @@
   "minecraft:recipes/decorations/black_shulker_box": {
     "criteria": {
       "has_shulker_box": "2025-07-04 23:20:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
+    "criteria": {
+      "has_ancient_debris": "2025-07-05 21:30:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap": {
+    "criteria": {
+      "has_ancient_debris": "2025-07-05 21:30:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2025-07-05 21:30:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-07-05 21:26:48 +0000"
     },
     "done": true
   },
