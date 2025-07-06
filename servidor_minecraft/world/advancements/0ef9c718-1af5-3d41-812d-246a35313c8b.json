@@ -4426,6 +4426,12 @@
     },
     "done": true
   },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2025-07-06 22:48:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/loot_bastion": {
     "criteria": {
       "loot_bastion_other": "2025-07-06 21:58:51 +0000"
@@ -4447,6 +4453,12 @@
   "minecraft:nether/find_bastion": {
     "criteria": {
       "bastion": "2025-07-06 21:57:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2025-07-06 22:48:00 +0000"
     },
     "done": true
   },
