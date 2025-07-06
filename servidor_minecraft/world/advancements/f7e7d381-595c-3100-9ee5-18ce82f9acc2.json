@@ -1389,9 +1389,21 @@
     },
     "done": true
   },
+  "minecraft:end/find_end_city": {
+    "criteria": {
+      "in_city": "2025-07-06 00:13:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/pale_oak_chest_boat": {
     "criteria": {
       "has_boat": "2025-07-05 23:50:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/enter_end_gateway": {
+    "criteria": {
+      "entered_end_gateway": "2025-07-06 00:11:18 +0000"
     },
     "done": true
   },
