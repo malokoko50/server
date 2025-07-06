@@ -27,3 +27,25 @@
 [20:30:57] [Server thread/INFO]: isafebrero joined the game
 [20:50:34] [Server thread/WARN]: isafebrero moved wrongly!
 [20:54:08] [Server thread/INFO]: isafebrero has made the advancement [Take Aim]
+[21:41:23] [Server thread/INFO]: isafebrero has made the advancement [Isn't It Iron Pick]
+[21:42:21] [Server thread/INFO]: isafebrero has made the advancement [Getting an Upgrade]
+[21:45:07] [Server thread/INFO]: isafebrero lost connection: Disconnected
+[21:45:07] [Server thread/INFO]: isafebrero left the game
+[21:46:07] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[21:46:29] [Server thread/INFO]: sebas2011junio[/172.30.35.230:55830] logged in with entity id 32698 at (169.3915735619255, 58.0, -144.3700564649318)
+[21:46:29] [Server thread/INFO]: sebas2011junio joined the game
+[21:47:18] [Server thread/INFO]: Villager cru['Villager'/32705, l='ServerLevel[bueno]', x=167.86, y=59.00, z=-144.32] died, message: 'Villager burned to death'
+[21:47:19] [Server thread/INFO]: Villager cru['Villager'/32709, l='ServerLevel[bueno]', x=167.35, y=59.00, z=-144.52] died, message: 'Villager burned to death'
+[21:47:27] [Server thread/INFO]: Villager cru['Villager'/32702, l='ServerLevel[bueno]', x=166.79, y=59.00, z=-144.70] died, message: 'Villager burned to death'
+[21:47:31] [Server thread/INFO]: Villager cru['Villager'/32710, l='ServerLevel[bueno]', x=168.40, y=59.05, z=-144.70] died, message: 'Villager tried to swim in lava'
+[21:47:38] [Server thread/INFO]: Villager cru['Villager'/32704, l='ServerLevel[bueno]', x=166.41, y=59.55, z=-144.66] died, message: 'Villager tried to swim in lava'
+[21:47:38] [Server thread/INFO]: Villager cru['Villager'/32707, l='ServerLevel[bueno]', x=167.70, y=59.98, z=-144.64] died, message: 'Villager tried to swim in lava'
+[21:47:41] [Server thread/INFO]: Villager cru['Villager'/32703, l='ServerLevel[bueno]', x=164.78, y=59.00, z=-144.44] died, message: 'Villager burned to death'
+[21:47:53] [Server thread/INFO]: Villager cru['Villager'/32708, l='ServerLevel[bueno]', x=166.40, y=59.00, z=-144.33] died, message: 'Villager burned to death'
+[21:47:54] [Server thread/INFO]: Villager cru['Villager'/32706, l='ServerLevel[bueno]', x=165.61, y=59.40, z=-144.68] died, message: 'Villager tried to swim in lava'
+[21:48:02] [Server thread/INFO]: Villager cru['Villager'/32711, l='ServerLevel[bueno]', x=171.61, y=59.25, z=-144.36] died, message: 'Villager burned to death'
+[21:51:17] [Server thread/WARN]: sebas2011junio moved too quickly! 17.462281223343822,-0.7510943639034906,3.7550875566296327
+[21:56:41] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=-236, y=77, z=-271} iw{x=-236, y=76, z=-270}
+[21:57:47] [Server thread/INFO]: sebas2011junio has made the advancement [Those Were the Days]
+[21:58:51] [Server thread/INFO]: sebas2011junio has made the advancement [War Pigs]
+[21:59:57] [Server thread/INFO]: sebas2011junio has made the advancement [Who is Cutting Onions?]
