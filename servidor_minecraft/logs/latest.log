@@ -1,52 +1,32 @@
-[20:29:41] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[20:29:44] [ServerMain/INFO]: Loaded 1373 recipes
-[20:29:44] [ServerMain/INFO]: Loaded 1484 advancements
-[20:29:44] [Server thread/INFO]: Starting minecraft server version 1.21.5
-[20:29:44] [Server thread/INFO]: Loading properties
-[20:29:44] [Server thread/INFO]: Default game type: SURVIVAL
-[20:29:44] [Server thread/INFO]: Generating keypair
-[20:29:44] [Server thread/INFO]: Starting Minecraft server on *:25565
-[20:29:44] [Server thread/INFO]: Using epoll channel type
-[20:29:44] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[20:29:44] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[20:29:44] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[20:29:44] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[20:29:44] [Server thread/INFO]: Preparing level "world"
-[20:29:45] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[20:29:48] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[20:29:48] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[20:29:48] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[20:29:48] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[20:29:48] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[20:29:48] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[20:29:48] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[20:29:48] [Server thread/INFO]: Time elapsed: 3418 ms
-[20:29:48] [Server thread/INFO]: Done (3.905s)! For help, type "help"
-[20:30:48] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[20:30:57] [Server thread/INFO]: isafebrero[/172.30.35.230:51263] logged in with entity id 2 at (152.22732371632452, 62.9375, -169.4153259698512)
-[20:30:57] [Server thread/INFO]: isafebrero joined the game
-[20:50:34] [Server thread/WARN]: isafebrero moved wrongly!
-[20:54:08] [Server thread/INFO]: isafebrero has made the advancement [Take Aim]
-[21:41:23] [Server thread/INFO]: isafebrero has made the advancement [Isn't It Iron Pick]
-[21:42:21] [Server thread/INFO]: isafebrero has made the advancement [Getting an Upgrade]
-[21:45:07] [Server thread/INFO]: isafebrero lost connection: Disconnected
-[21:45:07] [Server thread/INFO]: isafebrero left the game
-[21:46:07] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[21:46:29] [Server thread/INFO]: sebas2011junio[/172.30.35.230:55830] logged in with entity id 32698 at (169.3915735619255, 58.0, -144.3700564649318)
-[21:46:29] [Server thread/INFO]: sebas2011junio joined the game
-[21:47:18] [Server thread/INFO]: Villager cru['Villager'/32705, l='ServerLevel[bueno]', x=167.86, y=59.00, z=-144.32] died, message: 'Villager burned to death'
-[21:47:19] [Server thread/INFO]: Villager cru['Villager'/32709, l='ServerLevel[bueno]', x=167.35, y=59.00, z=-144.52] died, message: 'Villager burned to death'
-[21:47:27] [Server thread/INFO]: Villager cru['Villager'/32702, l='ServerLevel[bueno]', x=166.79, y=59.00, z=-144.70] died, message: 'Villager burned to death'
-[21:47:31] [Server thread/INFO]: Villager cru['Villager'/32710, l='ServerLevel[bueno]', x=168.40, y=59.05, z=-144.70] died, message: 'Villager tried to swim in lava'
-[21:47:38] [Server thread/INFO]: Villager cru['Villager'/32704, l='ServerLevel[bueno]', x=166.41, y=59.55, z=-144.66] died, message: 'Villager tried to swim in lava'
-[21:47:38] [Server thread/INFO]: Villager cru['Villager'/32707, l='ServerLevel[bueno]', x=167.70, y=59.98, z=-144.64] died, message: 'Villager tried to swim in lava'
-[21:47:41] [Server thread/INFO]: Villager cru['Villager'/32703, l='ServerLevel[bueno]', x=164.78, y=59.00, z=-144.44] died, message: 'Villager burned to death'
-[21:47:53] [Server thread/INFO]: Villager cru['Villager'/32708, l='ServerLevel[bueno]', x=166.40, y=59.00, z=-144.33] died, message: 'Villager burned to death'
-[21:47:54] [Server thread/INFO]: Villager cru['Villager'/32706, l='ServerLevel[bueno]', x=165.61, y=59.40, z=-144.68] died, message: 'Villager tried to swim in lava'
-[21:48:02] [Server thread/INFO]: Villager cru['Villager'/32711, l='ServerLevel[bueno]', x=171.61, y=59.25, z=-144.36] died, message: 'Villager burned to death'
-[21:51:17] [Server thread/WARN]: sebas2011junio moved too quickly! 17.462281223343822,-0.7510943639034906,3.7550875566296327
-[21:56:41] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=-236, y=77, z=-271} iw{x=-236, y=76, z=-270}
-[21:57:47] [Server thread/INFO]: sebas2011junio has made the advancement [Those Were the Days]
-[21:58:51] [Server thread/INFO]: sebas2011junio has made the advancement [War Pigs]
-[21:59:57] [Server thread/INFO]: sebas2011junio has made the advancement [Who is Cutting Onions?]
-[22:48:00] [Server thread/INFO]: sebas2011junio has made the advancement [Spooky Scary Skeleton]
+[18:24:53] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[18:24:55] [ServerMain/INFO]: Loaded 1373 recipes
+[18:24:56] [ServerMain/INFO]: Loaded 1484 advancements
+[18:24:56] [Server thread/INFO]: Starting minecraft server version 1.21.5
+[18:24:56] [Server thread/INFO]: Loading properties
+[18:24:56] [Server thread/INFO]: Default game type: SURVIVAL
+[18:24:56] [Server thread/INFO]: Generating keypair
+[18:24:56] [Server thread/INFO]: Starting Minecraft server on *:25565
+[18:24:56] [Server thread/INFO]: Using epoll channel type
+[18:24:56] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[18:24:56] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[18:24:56] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[18:24:56] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[18:24:56] [Server thread/INFO]: Preparing level "world"
+[18:24:56] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[18:24:59] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[18:24:59] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[18:24:59] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[18:24:59] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[18:24:59] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[18:24:59] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[18:24:59] [Server thread/INFO]: Time elapsed: 3028 ms
+[18:24:59] [Server thread/INFO]: Done (3.426s)! For help, type "help"
+[18:25:59] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[18:28:19] [Server thread/INFO]: isafebrero[/172.30.35.230:53814] logged in with entity id 2 at (151.9825590080021, 63.0, -170.7235911397812)
+[18:28:19] [Server thread/INFO]: isafebrero joined the game
+[18:33:04] [Server thread/INFO]: isafebrero lost connection: Disconnected
+[18:33:04] [Server thread/INFO]: isafebrero left the game
+[18:33:49] [Server thread/INFO]: sebas2011junio[/172.30.35.230:54151] logged in with entity id 1001 at (151.3908315334716, 62.9375, -167.54523583570258)
+[18:33:49] [Server thread/INFO]: sebas2011junio joined the game
+[18:34:20] [Server thread/INFO]: sebas2011junio lost connection: Disconnected
+[18:34:20] [Server thread/INFO]: sebas2011junio left the game
