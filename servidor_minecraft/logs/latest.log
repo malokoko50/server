@@ -42,3 +42,10 @@
 [20:05:52] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=95, y=31, z=-70} iw{x=105, y=30, z=-100}
 [20:09:33] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=101, y=27, z=-97} iw{x=105, y=30, z=-99}
 [20:15:37] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=98, y=106, z=-166} iw{x=-178, y=87, z=-136}
+[20:18:06] [Server thread/WARN]: isafebrero moved wrongly!
+[20:19:11] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=98, y=106, z=-166} iw{x=-55, y=95, z=-48}
+[20:24:47] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=-24, y=105, z=22} iw{x=-24, y=104, z=23}
+[20:24:48] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=-24, y=105, z=22} iw{x=-24, y=104, z=23}
+[20:24:48] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=-24, y=105, z=22} iw{x=-24, y=104, z=23}
+[20:24:48] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=-24, y=105, z=22} iw{x=-24, y=104, z=23}
+[20:24:48] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=-24, y=105, z=22} iw{x=-24, y=104, z=23}
