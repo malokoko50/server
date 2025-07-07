@@ -1,51 +1,29 @@
-[18:24:53] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[18:24:55] [ServerMain/INFO]: Loaded 1373 recipes
-[18:24:56] [ServerMain/INFO]: Loaded 1484 advancements
-[18:24:56] [Server thread/INFO]: Starting minecraft server version 1.21.5
-[18:24:56] [Server thread/INFO]: Loading properties
-[18:24:56] [Server thread/INFO]: Default game type: SURVIVAL
-[18:24:56] [Server thread/INFO]: Generating keypair
-[18:24:56] [Server thread/INFO]: Starting Minecraft server on *:25565
-[18:24:56] [Server thread/INFO]: Using epoll channel type
-[18:24:56] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[18:24:56] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[18:24:56] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[18:24:56] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[18:24:56] [Server thread/INFO]: Preparing level "world"
-[18:24:56] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[18:24:59] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[18:24:59] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[18:24:59] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[18:24:59] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[18:24:59] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[18:24:59] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[18:24:59] [Server thread/INFO]: Time elapsed: 3028 ms
-[18:24:59] [Server thread/INFO]: Done (3.426s)! For help, type "help"
-[18:25:59] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[18:28:19] [Server thread/INFO]: isafebrero[/172.30.35.230:53814] logged in with entity id 2 at (151.9825590080021, 63.0, -170.7235911397812)
-[18:28:19] [Server thread/INFO]: isafebrero joined the game
-[18:33:04] [Server thread/INFO]: isafebrero lost connection: Disconnected
-[18:33:04] [Server thread/INFO]: isafebrero left the game
-[18:33:49] [Server thread/INFO]: sebas2011junio[/172.30.35.230:54151] logged in with entity id 1001 at (151.3908315334716, 62.9375, -167.54523583570258)
-[18:33:49] [Server thread/INFO]: sebas2011junio joined the game
-[18:34:20] [Server thread/INFO]: sebas2011junio lost connection: Disconnected
-[18:34:20] [Server thread/INFO]: sebas2011junio left the game
-[18:35:02] [Server thread/INFO]: isafebrero[/172.30.35.230:54223] logged in with entity id 1315 at (151.04902646962094, 64.0, -172.7527556038797)
-[18:35:02] [Server thread/INFO]: isafebrero joined the game
-[18:36:13] [Server thread/INFO]: Villager cru['Villager'/1330, l='ServerLevel[bueno]', x=158.32, y=62.94, z=-186.32] died, message: 'Villager was slain by isafebrero'
-[18:38:32] [Server thread/INFO]: Villager cru['Fisherman'/1328, l='ServerLevel[bueno]', x=144.36, y=63.00, z=-156.49] died, message: 'Fisherman was shot by isafebrero using [isa:]'
-[18:45:47] [Server thread/INFO]: isafebrero has made the advancement [Who is Cutting Onions?]
-[19:06:57] [Server thread/INFO]: isafebrero has made the advancement [Spooky Scary Skeleton]
-[19:07:48] [Server thread/INFO]: isafebrero has made the advancement [Ice Bucket Challenge]
-[19:28:32] [Server thread/INFO]: isafebrero has made the advancement [Into Fire]
-[19:31:47] [Server thread/INFO]: isafebrero has made the advancement [A Terrible Fortress]
-[20:05:52] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=95, y=31, z=-70} iw{x=105, y=30, z=-100}
-[20:09:33] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=101, y=27, z=-97} iw{x=105, y=30, z=-99}
-[20:15:37] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=98, y=106, z=-166} iw{x=-178, y=87, z=-136}
-[20:18:06] [Server thread/WARN]: isafebrero moved wrongly!
-[20:19:11] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=98, y=106, z=-166} iw{x=-55, y=95, z=-48}
-[20:24:47] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=-24, y=105, z=22} iw{x=-24, y=104, z=23}
-[20:24:48] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=-24, y=105, z=22} iw{x=-24, y=104, z=23}
-[20:24:48] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=-24, y=105, z=22} iw{x=-24, y=104, z=23}
-[20:24:48] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=-24, y=105, z=22} iw{x=-24, y=104, z=23}
-[20:24:48] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=-24, y=105, z=22} iw{x=-24, y=104, z=23}
+[22:13:54] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[22:13:57] [ServerMain/INFO]: Loaded 1373 recipes
+[22:13:57] [ServerMain/INFO]: Loaded 1484 advancements
+[22:13:57] [Server thread/INFO]: Starting minecraft server version 1.21.5
+[22:13:57] [Server thread/INFO]: Loading properties
+[22:13:57] [Server thread/INFO]: Default game type: SURVIVAL
+[22:13:57] [Server thread/INFO]: Generating keypair
+[22:13:57] [Server thread/INFO]: Starting Minecraft server on *:25565
+[22:13:57] [Server thread/INFO]: Using epoll channel type
+[22:13:57] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[22:13:57] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[22:13:57] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[22:13:57] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[22:13:57] [Server thread/INFO]: Preparing level "world"
+[22:13:58] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[22:14:02] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[22:14:02] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[22:14:02] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[22:14:02] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[22:14:02] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[22:14:02] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[22:14:02] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[22:14:02] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[22:14:02] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[22:14:02] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[22:14:02] [Server thread/INFO]: Time elapsed: 4750 ms
+[22:14:02] [Server thread/INFO]: Done (5.140s)! For help, type "help"
+[22:14:16] [Server thread/INFO]: isafebrero[/172.30.35.230:51551] logged in with entity id 2 at (154.42237832822153, 63.0, -160.28154614530013)
+[22:14:16] [Server thread/INFO]: isafebrero joined the game
