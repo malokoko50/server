@@ -40,3 +40,5 @@
 [19:28:32] [Server thread/INFO]: isafebrero has made the advancement [Into Fire]
 [19:31:47] [Server thread/INFO]: isafebrero has made the advancement [A Terrible Fortress]
 [20:05:52] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=95, y=31, z=-70} iw{x=105, y=30, z=-100}
+[20:09:33] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=101, y=27, z=-97} iw{x=105, y=30, z=-99}
+[20:15:37] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=98, y=106, z=-166} iw{x=-178, y=87, z=-136}
