@@ -37,3 +37,6 @@
 [17:23:29] [Server thread/INFO]: Villager cru['Weaponsmith'/41, l='ServerLevel[bueno]', x=148.50, y=63.00, z=-147.50] died, message: 'Weaponsmith was slain by isafebrero'
 [17:23:39] [Server thread/INFO]: Villager cru['Farmer'/9866, l='ServerLevel[bueno]', x=162.84, y=63.13, z=-135.32] died, message: 'Farmer was slain by isafebrero'
 [18:09:40] [Server thread/INFO]: isafebrero experienced kinetic energy
+[18:23:32] [Server thread/INFO]: isafebrero lost connection: Disconnected
+[18:23:32] [Server thread/INFO]: isafebrero left the game
+[18:24:32] [Server thread/INFO]: Server empty for 60 seconds, pausing
