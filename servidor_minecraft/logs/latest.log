@@ -33,3 +33,7 @@
 [19:04:04] [Server thread/WARN]: isafebrero moved too quickly! 2.4426295343675406,-3.324174384535908,17.329263341795013
 [19:26:43] [Server thread/INFO]: isafebrero has made the advancement [Local Brewery]
 [19:30:26] [Server thread/INFO]: Villager cru['Librarian'/74158, l='ServerLevel[bueno]', x=174.50, y=63.00, z=-97.30] died, message: 'Librarian was slain by Zombie'
+[19:36:40] [Server thread/INFO]: isafebrero has reached the goal [Zombie Doctor]
+[19:37:41] [Server thread/INFO]: Villager cru['Librarian'/74164, l='ServerLevel[bueno]', x=166.50, y=63.00, z=-97.30] died, message: 'Librarian was slain by Zombie'
+[19:39:22] [Server thread/WARN]: isafebrero moved wrongly!
+[19:43:44] [Server thread/INFO]: Villager cru['Librarian'/74156, l='ServerLevel[bueno]', x=168.50, y=63.00, z=-97.30] died, message: 'Librarian was slain by Zombie'
