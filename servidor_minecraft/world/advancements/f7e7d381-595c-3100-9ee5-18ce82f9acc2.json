@@ -7,19 +7,31 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:cold_ocean": "2025-07-11 18:57:16 +0000",
       "minecraft:snowy_slopes": "2025-07-05 18:52:27 +0000",
-      "minecraft:beach": "2025-07-05 20:15:43 +0000",
+      "minecraft:old_growth_pine_taiga": "2025-07-11 18:57:58 +0000",
       "minecraft:forest": "2025-07-05 18:51:59 +0000",
+      "minecraft:taiga": "2025-07-11 18:43:35 +0000",
+      "minecraft:deep_ocean": "2025-07-11 19:08:15 +0000",
+      "minecraft:deep_cold_ocean": "2025-07-11 19:08:50 +0000",
+      "minecraft:ocean": "2025-07-11 19:03:56 +0000",
+      "minecraft:cherry_grove": "2025-07-06 02:15:24 +0000",
+      "minecraft:sunflower_plains": "2025-07-06 02:15:27 +0000",
+      "minecraft:birch_forest": "2025-07-05 20:20:29 +0000",
+      "minecraft:old_growth_spruce_taiga": "2025-07-11 18:54:25 +0000",
+      "minecraft:flower_forest": "2025-07-11 18:59:25 +0000",
+      "minecraft:beach": "2025-07-05 20:15:43 +0000",
+      "minecraft:dark_forest": "2025-07-11 19:00:11 +0000",
       "minecraft:river": "2025-07-05 20:15:00 +0000",
       "minecraft:stony_shore": "2025-07-05 18:55:46 +0000",
       "minecraft:snowy_plains": "2025-07-05 20:42:01 +0000",
+      "minecraft:dripstone_caves": "2025-07-11 18:36:54 +0000",
       "minecraft:frozen_peaks": "2025-07-05 20:07:37 +0000",
-      "minecraft:cherry_grove": "2025-07-06 02:15:24 +0000",
-      "minecraft:sunflower_plains": "2025-07-06 02:15:27 +0000",
+      "minecraft:old_growth_birch_forest": "2025-07-11 19:00:10 +0000",
       "minecraft:grove": "2025-07-05 20:07:23 +0000",
       "minecraft:meadow": "2025-07-05 20:23:45 +0000",
-      "minecraft:birch_forest": "2025-07-05 20:20:29 +0000",
-      "minecraft:plains": "2025-07-05 18:52:20 +0000"
+      "minecraft:plains": "2025-07-05 18:52:20 +0000",
+      "minecraft:jagged_peaks": "2025-07-11 18:43:49 +0000"
     },
     "done": false
   },
@@ -2903,6 +2915,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/lime_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-07-11 19:07:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/tame_an_animal": {
     "criteria": {
       "tamed_animal": "2025-07-11 18:22:47 +0000"
@@ -2933,9 +2951,33 @@
     },
     "done": false
   },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-07-11 19:01:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/fermented_spider_eye": {
     "criteria": {
       "has_spider_eye": "2025-07-11 18:21:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-07-11 19:07:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-07-11 19:07:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-07-11 19:07:35 +0000"
     },
     "done": true
   },
@@ -2944,6 +2986,18 @@
       "minecraft:wolf": "2025-07-11 18:26:11 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_brown_mushroom": "2025-07-11 18:56:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-07-11 19:07:38 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/redstone/birch_door": {
     "criteria": {
@@ -2963,9 +3017,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_gray_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-07-11 19:07:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/suspicious_stew_from_cornflower": {
     "criteria": {
       "has_cornflower": "2025-07-11 17:58:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-07-11 19:07:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-07-11 19:07:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-07-11 19:07:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2025-07-11 19:05:15 +0000"
     },
     "done": true
   },
@@ -2981,15 +3065,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brown_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-07-11 19:07:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-07-11 19:07:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/blue_dye_from_cornflower": {
     "criteria": {
       "has_cornflower": "2025-07-11 17:58:01 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cyan_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-07-11 19:07:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2025-07-11 19:05:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_planks": {
     "criteria": {
       "has_logs": "2025-07-11 17:56:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2025-07-11 19:01:57 +0000"
     },
     "done": true
   },
@@ -3005,6 +3119,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/orange_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-07-11 19:07:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-07-11 19:07:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/honey_block": {
     "criteria": {
       "has_honey_bottle": "2025-07-11 18:05:51 +0000"
@@ -3017,9 +3143,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_brown_mushroom": "2025-07-11 18:56:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_slab": {
     "criteria": {
       "has_planks": "2025-07-11 18:09:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-07-11 19:07:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-07-11 19:07:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-07-11 19:07:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-07-11 19:07:38 +0000"
     },
     "done": true
   },
@@ -3038,6 +3194,24 @@
   "minecraft:husbandry/breed_an_animal": {
     "criteria": {
       "bred": "2025-07-11 18:26:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/warped_fungus_on_a_stick": {
+    "criteria": {
+      "has_warped_fungus": "2025-07-11 18:31:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-07-11 19:07:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-07-11 19:07:35 +0000"
     },
     "done": true
   },
